@@ -1,5 +1,5 @@
 ## Hi there 👋, Welcome to my github!
-### I am Full Stack Blockchain Engineer | Scalable Systems | Cloud & Data Integration Pro | Agile Development Expert
+### I am a Full Stack Blockchain Engineer | Scalable Systems | Cloud & Data Integration Pro | Agile Development Expert
 #### 👊 React.js / Next.js / Angular / Vue / Solidity / Rust / Move / Golang / Node.js / Python / C# / Java / Nest.js / Django / Flask / .NET Core / Spring / Scala / Web3 / ethers / Smart Contract / Layer2 / Docker / Kubernetes / Jenkins / AWS / Azure
 <img src="./assets//cover.jpg" />
 
